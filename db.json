@@ -1,0 +1,19 @@
+[{
+		"id": 1,
+		"name": "Shawshank Redemption",
+		"year": "1997",
+		"madeIn": "USA"
+	},
+	{
+		"id": 2,
+		"name": "Awesome Movie",
+		"year": "2019",
+		"madeIn": "Norway"
+	},
+	{
+		"id": 3,
+		"name": "Third best ever",
+		"year": "1989",
+		"madeIn": "Finland"
+	}
+]
